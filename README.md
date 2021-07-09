@@ -1,20 +1,20 @@
 ### Hi there, I'm Breno Farias da Silva - aka [BrenoFarias][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=https://brenofarias2.wixsite.com/aboutme&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFariasUser?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BrenoFariasUser)
 
 ## I'm a Student of Computer Science at the Federal University of Technology – Paraná.
 ## Currently i'm learning advanced C language, but i'm also learning JavaScript and Python.
 ## My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
 
-- 🔭 I just launched my first website: [AboutMe][course]!
-- 🌱 As I’m new to codeing, currently learning everything🤣
+- 🔭 I just launched my first website: [AboutMe][website]!
+- 🌱 As I’m new to codeing, currently learning everything�
 - 👯 I’m looking for be internet into any company and to create projects on my own
 - 🥅 2021 Goals: Learn at least 2 languages and get used to learn with books in english.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-BrenoFarias.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-BrenoFariasdaSilva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11126381941)
 
 ### Connect with me:
 
@@ -55,7 +55,6 @@
 </details>
 
 [website]: https://brenofarias2.wixsite.com/aboutme
-[course]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
 [youtube]: https://www.youtube.com/channel/UCLoSdHUd7B-5RAPfRtqrGGw
 [instagram]: https://www.instagram.com/brenofdsilva/
