@@ -6,8 +6,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BrenovicioGamer/)
 
 ## I'm a Student of Computer Science at the Federal University of Technology – Paraná.
-## Currently i'm learning advanced C language, but i'm also learning JavaScript and Python.
-## My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
+Currently i'm learning advanced C language, but i'm also learning JavaScript and Python.
+My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
 
 - 🔭 I just launched my first website: [AboutMe][website]!
 - 🌱 As I’m new to codeing, currently learning everything�
