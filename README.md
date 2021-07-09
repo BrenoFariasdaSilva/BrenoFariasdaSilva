@@ -10,8 +10,8 @@ Currently i'm learning advanced C language, but i'm also learning JavaScript and
 My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
 
 - 🔭 I just launched my first website: [AboutMe][website]!
-- 🌱 As I’m new to coding, currently learning everything�
-- 👯 I’m looking to be intern into any company and to create projects on my own
+- 🌱 As I’m new to coding, currently learning everything.
+- 👯 I’m looking to be intern into any company and to create projects on my own.
 - 🥅 2021 Goals: Learn at least 2 languages and get used to learn with books in english.
 
 
