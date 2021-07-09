@@ -1,9 +1,9 @@
 ### Hi there, I'm Breno Farias da Silva - aka [BrenoFarias][website] 👋
 
 [![Website](https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge)](BrenoFariasUser)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BrenoFariasUser)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenofdsilva/)
-[![Steam](https://img.shields.io/twitter/follow/BrenoFariasUser?color=1DA1F2&logo=twitter&style=for-the-badge)](BrenoFariasUser)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BrenovicioGamer/)
 
 ## I'm a Student of Computer Science at the Federal University of Technology – Paraná.
 ## Currently i'm learning advanced C language, but i'm also learning JavaScript and Python.
