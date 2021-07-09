@@ -23,6 +23,14 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 [<img align="left" alt="BrenoFarias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [website]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
 [youtube]: https://www.youtube.com/channel/UCLoSdHUd7B-5RAPfRtqrGGw
