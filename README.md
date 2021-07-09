@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-BrenoFariasdaSilva.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11126381941)
+[<img src="https://now-playing-BrenoFariasdaSilva.vercel.app/api/spotify-playing" alt="BrenoFariasdaSilva Spotify Playing" width="350" />](https://open.spotify.com/user/11126381941)
 
 ### Connect with me:
 
