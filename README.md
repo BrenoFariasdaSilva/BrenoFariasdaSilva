@@ -1,6 +1,6 @@
 ### Hi there, I'm Breno Farias da Silva - aka [BrenoFarias][website] 👋
 
-[![Website](https://img.shields.io/website?label=aboutme&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
+[![Website](https://img.shields.io/website?label=BrenoFarias.aAboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFariasUser?color=1DA1F2&logo=twitter&style=for-the-badge)](BrenoFariasUser)
 
 ## I'm a Student of Computer Science at the Federal University of Technology – Paraná.
