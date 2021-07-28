@@ -1,5 +1,7 @@
 ### Hi there, I'm Breno Farias da Silva - aka [Breno Farias][website] 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" /> </p>
+
 [![Website](https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BrenoFariasUser)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenofdsilva/)
