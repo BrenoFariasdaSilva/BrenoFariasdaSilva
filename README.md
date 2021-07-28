@@ -31,6 +31,8 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 [![Breno Farias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrenoFarias)](https://github.com/BrenoFarias/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice)](https://git.io/streak-stats)
+
 [website]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
 [youtube]: https://www.youtube.com/channel/UCLoSdHUd7B-5RAPfRtqrGGw
