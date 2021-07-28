@@ -27,11 +27,11 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   
 <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /> 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFariasDaSilva)](https://github.com/BrenoFariasdaSilva/github-readme-stats)
 
 [![Breno Farias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrenoFarias)](https://github.com/BrenoFarias/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice)](https://git.io/streak-stats)
 
 [website]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
