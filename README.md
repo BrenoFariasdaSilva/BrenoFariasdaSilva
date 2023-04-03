@@ -8,12 +8,12 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BrenovicioGamer/)
 
 ## I'm a student of Computer Science at the Federal University of Technology – Paraná.
-Currently i'm learning advanced C language, but i'm also learning JavaScript and Python.
+Currently i'm learning Java, JavaScript and Ruby languages by my own. Already used Python, but not enough to say im very productive at it.
 My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
 
 - 🔭 I just launched my first website: [AboutMe][website]!
-- 🌱 I'm currently learning everything that shows up.
-- 👯 I’m looking to be intern into any company and to create projects on my own.
+- 🌱 I'm currently learning basically everything that shows up.
+- 👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação][dataway].
 - 🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in english.
 
 
@@ -51,3 +51,4 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 [linkedin]: https://www.linkedin.com/in/breno-farias-da-silva-79641698/
 [facebook]: https://www.facebook.com/BrenoFariasDaSilva/
 [gmail]: brenofariasdasilva01@gmail.com
+[dataway]: https://www.linkedin.com/company/datawayti/?originalSubdomain=br
