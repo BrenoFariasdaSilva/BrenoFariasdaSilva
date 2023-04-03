@@ -26,6 +26,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 ### Languages:
 <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
 ---
   
