@@ -28,9 +28,11 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 ### Languages:
 <img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
 <br />
 
 
