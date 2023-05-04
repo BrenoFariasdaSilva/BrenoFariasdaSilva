@@ -1,13 +1,16 @@
 ### Hi there, I'm Breno Farias da Silva - aka [Breno Farias][website] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" /> </p> 
+<div style="display: flex; justify-content: center;">
+  <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" />
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />
+</div>
 
-[![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva)
-
-[![Website](https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BrenoFariasUser)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenofdsilva/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/BrenovicioGamer/)
+<p align="center">
+  <a href="https://brenofarias2.wixsite.com/aboutme"><img src="https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Website"></a>
+  <a href="https://twitter.com/BrenoFariasUser"><img src="https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
+  <a href="https://www.instagram.com/brenofdsilva/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow"></a>
+  <a href="https://steamcommunity.com/id/BrenovicioGamer/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+</p>
 
 ## I'm a student of Computer Science at the Federal University of Technology – Paraná.
 Currently i'm learning Java, JavaScript and Ruby languages by my own. Already used Python, but not enough to say im very productive at it.
