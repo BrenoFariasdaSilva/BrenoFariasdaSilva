@@ -46,7 +46,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFariasDaSilva)](https://github.com/BrenoFariasdaSilva/github-readme-stats)
 
-[![Breno Farias's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrenoFarias)](https://github.com/BrenoFarias/github-readme-stats)
+[![Breno Farias's wakatime stats](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)
 
 [website]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
