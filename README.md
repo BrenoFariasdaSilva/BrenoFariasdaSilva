@@ -18,41 +18,24 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 - 👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação][dataway].
 - 🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in english.
 
-
-### Connect with me:
-
-[<img align="left" alt="AboutMe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter][<img align="center" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
----
-
-### Languages:
-<img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-<img align="left" alt="c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-<br />
-
-
----
- <br/>
-<img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFariasDaSilva)](https://github.com/BrenoFariasdaSilva/github-readme-stats)
-
-[website]: https://brenofarias2.wixsite.com/aboutme
-[twitter]: https://twitter.com/BrenoFariasUser
-[youtube]: https://www.youtube.com/channel/UCLoSdHUd7B-5RAPfRtqrGGw
-[instagram]: https://www.instagram.com/brenofdsilva/
-[linkedin]: https://www.linkedin.com/in/breno-farias-da-silva-79641698/
-[facebook]: https://www.facebook.com/BrenoFariasDaSilva/
-[gmail]: brenofariasdasilva01@gmail.com
-[dataway]: https://www.linkedin.com/company/datawayti/?originalSubdomain=br
+<div align="center">
+    <a href="[website]"><img align="left" alt="AboutMe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="[linkedin]"><img align="left" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+    <a href="[twitter]"><img align="left" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+    <a href="[instagram]"><img align="left" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+    <a href="[youtube]"><img align="left" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+    <br /><br />
+    <h3>Languages:</h3>
+    <a href="#"><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+    <a href="#"><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+    <a href="#"><img align="left" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
+    <a href="#"><img align="left" alt="python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
+    <a href="#"><img align="left" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+    <a href="#"><img align="left" alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
+    <a href="#"><img align="left" alt="ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></a>
+    <a href="#"><img align="left" alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
+    <br /><br />
+    <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+    <br /><br />
+    <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice" />
+   
