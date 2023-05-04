@@ -1,6 +1,8 @@
 ### Hi there, I'm Breno Farias da Silva - aka [Breno Farias][website] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" /> </p> 
+
+[![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva)
 
 [![Website](https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brenofarias2.wixsite.com/aboutme)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BrenoFariasUser)
@@ -45,8 +47,6 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoFariasDaSilva)](https://github.com/BrenoFariasdaSilva/github-readme-stats)
-
-[![Breno Farias's wakatime stats](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)
 
 [website]: https://brenofarias2.wixsite.com/aboutme
 [twitter]: https://twitter.com/BrenoFariasUser
