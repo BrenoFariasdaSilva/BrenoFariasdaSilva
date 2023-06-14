@@ -52,15 +52,16 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
     <a href="#"><img alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
     &nbsp;&nbsp;&nbsp;
+  <a href="#"><img alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="#"><img alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;
     <a href="#"><img alt="python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-    &nbsp;&nbsp;&nbsp;
     <a href="#"><img alt="ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></a>
+    &nbsp;&nbsp;&nbsp;    
+  <a href="#"><img alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
 </p>
   
 ## My GitHub Stats:  
