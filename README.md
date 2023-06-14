@@ -9,7 +9,6 @@
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />
 </p>
 
-
 <p align="center">
   <a href="https://brenofarias2.wixsite.com/aboutme"><img src="https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Website"></a>
   <a href="https://twitter.com/BrenoFariasUser"><img src="https://img.shields.io/twitter/follow/BrenoFarias?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
@@ -39,9 +38,11 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
     <a href="[youtube]"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 </p>
-<div>
-    ##Languages:
+<div align="center">
+  
+## Languages:
 
+<div>
 <p align="center">
     <a href="#"><img alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
     &nbsp;&nbsp;&nbsp;
@@ -59,7 +60,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
     <a href="#"><img alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
 </p>
-
+<div align="center">
     <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
     <br /><br />
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice" />
