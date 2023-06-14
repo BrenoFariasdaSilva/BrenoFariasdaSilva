@@ -24,26 +24,24 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in english.  
 
 </div>
-
-
 <div align="center">
-    <a href="[website]"><img align="left" alt="AboutMe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-    <a href="[linkedin]"><img align="left" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
-    <a href="[twitter]"><img align="left" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
-    <a href="[instagram]"><img align="left" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
-    <a href="[youtube]"><img align="left" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+    <a href="[website]"><img align="center" alt="AboutMe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="[linkedin]"><img align="center" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+    <a href="[twitter]"><img align="center" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+    <a href="[instagram]"><img align="center" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+    <a href="[youtube]"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
     <br /><br />
     <h3>Languages:</h3>
-    <a href="#"><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-    <a href="#"><img align="left" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-    <a href="#"><img align="left" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
-    <a href="#"><img align="left" alt="python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
-    <a href="#"><img align="left" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
-    <a href="#"><img align="left" alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-    <a href="#"><img align="left" alt="ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></a>
-    <a href="#"><img align="left" alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
+    <a href="#"><img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+    <a href="#"><img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+    <a href="#"><img align="center" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
+    <a href="#"><img align="center" alt="python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
+    <a href="#"><img align="center" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+    <a href="#"><img align="center" alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
+    <a href="#"><img align="center" alt="ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></a>
+    <a href="#"><img align="center" alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
     <br /><br />
     <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
     <br /><br />
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice" />
-   </div>
+ </div>
