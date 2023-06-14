@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Breno Farias da Silva - aka [Breno Farias] 👋
+# [Hi there, I'm Breno Farias da Silva - aka Breno Farias](https://brenofarias2.wixsite.com/aboutme) 👋
 
 </div>
 
@@ -17,26 +17,28 @@
 </p>
 <div align="center">
 
-## I'm a student of Computer Science at the Federal University of Technology – Paraná.
-Currently i'm learning Java, JavaScript and Ruby languages by my own. Already used Python, but not enough to say im very productive at it.
+## I'm a student of Computer Science at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
+Currently i'm learning JavaScript and Ruby languages by my own, i'm already used to C/C++, Python and Java.
 My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
 
-🔭 I just launched my first website: [AboutMe][website]!  
+🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
 🌱 I'm currently learning basically everything that shows up.  
-👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação][dataway].  
+👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
 🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in english.  
 
 <div>
 <p align="center">
-    <a href="[website]"><img align="center" alt="AboutMe.com" width="22px" src="https://github.com/alrra/browser-logos/blob/main/src/chrome/chrome.svg" /></a>
+    <a href="https://brenofarias2.wixsite.com/aboutme"><img align="center" alt="AboutMe.com" width="22px" src="https://github.com/alrra/browser-logos/blob/main/src/chrome/chrome.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="[linkedin]"><img align="center" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+    <a href="[[instagram]](https://www.instagram.com/brenofdsilva/)"><img align="center" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="[twitter]"><img align="center" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+    <a href="[[linkedin]](https://www.linkedin.com/in/breno-farias-da-silva-79641698/)"><img align="center" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="[instagram]"><img align="center" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+  <a href="https://www.twitch.tv/brenovicio1"><img align="center" alt="BrenoVicio | Twitch" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitch.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="[youtube]"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" /></a>
+    <a href="[[twitter]](https://twitter.com/BrenoFariasUser)"><img align="center" alt="BrenoFarias | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@brenovicio1/featured"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" /></a>
 </p>
 <div align="center">
   
@@ -60,6 +62,9 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
     <a href="#"><img alt="kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
 </p>
+  
+## My GitHub Stats:  
+  
 <div align="center">
     <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
     <br /><br />
