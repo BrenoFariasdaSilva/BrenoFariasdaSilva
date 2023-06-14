@@ -1,9 +1,10 @@
 ### Hi there, I'm Breno Farias da Silva - aka [Breno Farias][website] 👋
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" />
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />
-</div>
+</p>
+
 
 
 <p align="center">
