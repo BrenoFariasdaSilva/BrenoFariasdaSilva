@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Breno Farias da Silva - aka [Breno Farias][website] 👋
+# Hi there, I'm Breno Farias da Silva - aka [Breno Farias] 👋
 
 </div>
 
@@ -28,7 +28,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 <div>
 <p align="center">
-    <a href="[website]"><img align="center" alt="AboutMe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+    <a href="[website]"><img align="center" alt="AboutMe.com" width="22px" src="https://github.com/alrra/browser-logos/blob/main/src/chrome/chrome.svg" /></a>
     &nbsp;&nbsp;&nbsp;
     <a href="[linkedin]"><img align="center" alt="BrenoFarias | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
     &nbsp;&nbsp;&nbsp;
