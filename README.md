@@ -36,7 +36,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
     <a href="[instagram]"><img align="center" alt="BrenoFarias | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="[youtube]"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+    <a href="[youtube]"><img align="center" alt="BrenoFarias | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" /></a>
 </p>
 <div align="center">
   
