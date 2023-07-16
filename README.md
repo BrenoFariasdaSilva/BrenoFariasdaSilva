@@ -67,7 +67,12 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 ## My GitHub Stats:  
   
 <div align="center">
-    <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+    <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&card_width=500" />
     <br /><br />
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice" />
+    <br /><br />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofariasdasilva&layout=compact&langs_count=100&bg_color=000000&text_color=ffffff&card_width=500&align=center" />
  </div>
+
+
+
