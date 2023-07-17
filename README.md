@@ -119,6 +119,14 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
+## Cloud Plataforms:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Azure DevOps" height="36" width="90" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Script Languages:
 <div>
   <p align="center">
