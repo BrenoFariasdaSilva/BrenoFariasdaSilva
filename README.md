@@ -92,8 +92,6 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Socket.IO" height="36" width="120" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
     &nbsp;
-    <a href="#"><img alt="" height="36" width="120" src=""></a>
-    &nbsp;
   </p>
 </div>
 
