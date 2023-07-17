@@ -114,6 +114,8 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   <p align="center">
     <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     &nbsp;
+     <a href="#"><img alt="Virtual Box" height="36" width="120" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
+    &nbsp;
   </p>
 </div>
 
@@ -156,9 +158,9 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Jupyter Notebook" height="36" width="120" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Visual Studio Code" height="36" width="180" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" height="36" width="200" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Visual Studio" height="36" width="140" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" height="36" width="180" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
