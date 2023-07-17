@@ -77,6 +77,30 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
   </p>
 </div>
+
+## Operating Systems:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Android" height="36" width="120" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Debian" height="36" width="120" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Linux" height="36" width="120" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Linux Mint" height="36" width="140" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Manjaro" height="36" width="120" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="MacOS" height="36" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="PopOS!" height="36" width="120" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Ubuntu" height="36" width="120" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="Windows" height="36" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+  </p>
+</div>
   
 ## My GitHub Stats:  
 <div align="center">
