@@ -113,6 +113,24 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
+## IDEs/Text Editors:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Android Studio" height="36" width="120" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Eclipse" height="36" width="120" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="IntelliJ IDEA" height="36" width="120" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Jupyter Notebook" height="36" width="120" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Visual Studio Code" height="36" width="120" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Visual Studio" height="36" width="120" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Operating Systems:
 <div>
   <p align="center">
