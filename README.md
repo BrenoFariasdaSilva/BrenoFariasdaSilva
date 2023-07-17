@@ -115,6 +115,14 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
+## Script Languages:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Shell Script" height="36" width="90" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Markup Languages:
 <div>
   <p align="center">
