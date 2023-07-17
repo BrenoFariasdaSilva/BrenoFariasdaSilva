@@ -109,16 +109,6 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
-## Container and Virtualization:
-<div>
-  <p align="center">
-    <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-    &nbsp;
-     <a href="#"><img alt="Virtual Box" height="36" width="150" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
-    &nbsp;
-  </p>
-</div>
-
 ## Version Control:
 <div>
   <p align="center">
@@ -143,6 +133,16 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     <a href="#"><img alt="LaTex" height="36" width="90" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Markdown" height="36" width="140" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    &nbsp;
+  </p>
+</div>
+
+## Container and Virtualization:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    &nbsp;
+     <a href="#"><img alt="Virtual Box" height="36" width="150" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
