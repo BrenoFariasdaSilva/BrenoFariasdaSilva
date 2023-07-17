@@ -44,21 +44,21 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="c" height="36" width="64" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="c++" height="36" width="85" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="java" height="36" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="javascript" height="36" width="130" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
+    <a href="#"><img alt="javascript" height="36" width="135" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    &nbsp;
     <a href="#"><img alt="kotlin" height="36" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="python" height="36" width="95" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="#"><img alt="ruby" height="36" width="80" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
+    <a href="#"><img alt="python" height="36" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+    &nbsp;
+    <a href="#"><img alt="ruby" height="36" width="90" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
+    &nbsp;
     <a href="#"><img alt="typescript" height="36" width="130" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   </p>
 </div>
 
@@ -74,6 +74,16 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+  </p>
+</div>
+
+## Version Control :
+<div>
+  <p align="center">
+    <a href="#"><img alt="Git" height="36" width="90" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#"><img alt="GitHub" height="36" width="120" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     &nbsp;&nbsp;&nbsp;
   </p>
 </div>
