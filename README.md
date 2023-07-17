@@ -104,7 +104,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Pandas" height="36" width="120" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Scikit-Learn" height="36" width="120" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-Learn" height="36" width="150" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
@@ -114,7 +114,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   <p align="center">
     <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
     &nbsp;
-     <a href="#"><img alt="Virtual Box" height="36" width="120" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
+     <a href="#"><img alt="Virtual Box" height="36" width="150" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
