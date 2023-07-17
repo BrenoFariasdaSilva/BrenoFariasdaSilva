@@ -95,6 +95,20 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
+## Machine Learning / Deep Learning:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Matplotlib" height="36" width="120" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
+    &nbsp;
+    <a href="#"><img alt="NumPy" height="36" width="120" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Pandas" height="36" width="120" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Scikit-Learn" height="36" width="120" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Container and Virtualization:
 <div>
   <p align="center">
