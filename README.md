@@ -105,7 +105,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
-## Version Control :
+## Version Control:
 <div>
   <p align="center">
     <a href="#"><img alt="Git" height="36" width="90" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
