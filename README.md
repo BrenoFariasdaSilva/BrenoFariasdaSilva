@@ -27,15 +27,15 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
 <p align="center">
     <a href="https://brenofarias2.wixsite.com/aboutme"><img align="center" alt="AboutMe.com" width="140px" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="[[instagram]](https://www.instagram.com/brenofdsilva/)"><img align="center" alt="BrenoFarias | Instagram" width="120px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="[[linkedin]](https://www.linkedin.com/in/breno-farias-da-silva-79641698/)"><img align="center" alt="BrenoFarias | LinkedIn" width="120px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   <a href="https://www.twitch.tv/brenovicio1"><img align="center" alt="BrenoVicio | Twitch" width="100px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="[[twitter]](https://twitter.com/BrenoFariasUser)"><img align="center" alt="BrenoFarias | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.youtube.com/@brenovicio1/featured"><img align="center" alt="BrenoFarias | YouTube" width="100px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </p>
 <div align="center">
@@ -66,7 +66,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="MongoDB" height="36" width="120" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   </p>
 </div>
 
@@ -74,7 +74,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="Docker" height="36" width="120" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   </p>
 </div>
 
@@ -82,9 +82,9 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="Git" height="36" width="90" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="GitHub" height="36" width="120" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   </p>
 </div>
 
@@ -92,23 +92,23 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div>
   <p align="center">
     <a href="#"><img alt="Android" height="36" width="120" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Debian" height="36" width="120" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Linux" height="36" width="120" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Linux Mint" height="36" width="140" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Manjaro" height="36" width="120" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="MacOS" height="36" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="PopOS!" height="36" width="120" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Ubuntu" height="36" width="120" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="#"><img alt="Windows" height="36" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;
   </p>
 </div>
   
