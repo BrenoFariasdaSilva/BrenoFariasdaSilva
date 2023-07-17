@@ -15,13 +15,14 @@
 <div align="center">
 
 ## I'm a student of Computer Science at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
-Currently i'm learning JavaScript and Ruby languages by my own, i'm already used to C/C++, Python and Java.
-My Hobbies are related to Coding, Games, Music, Math and Problem-Solving. 
-
+Currently i'm learning JavaScript and Ruby languages by my own, i'm already used to C/C++, Python and Java.  
+My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.  
 🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
 🌱 I'm currently learning basically everything that shows up.  
 👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
-🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in english.  
+🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in English.  
+  
+## Social Networks:
 
 <div>
 <p align="center">
@@ -40,7 +41,6 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 <div align="center">
   
 ## Languages:
-
 <div>
   <p align="center">
     <a href="#"><img alt="c" height="36" width="64" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -61,17 +61,12 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;&nbsp;&nbsp;
   </p>
 </div>
-
   
 ## My GitHub Stats:  
-  
 <div align="center">
     <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&card_width=500" />
     <br /><br />
     <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=BrenoFariasdaSilva&theme=black-ice" />
     <br /><br />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofariasdasilva&layout=compact&langs_count=100&bg_color=000000&text_color=ffffff&card_width=500&align=center" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofariasdasilva&layout=compact&langs_count=10&bg_color=000000&text_color=ffffff&card_width=500&align=center" />
  </div>
-
-
-
