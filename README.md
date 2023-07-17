@@ -144,6 +144,8 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Markdown" height="36" width="140" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
     &nbsp;
+    <a href="#"><img alt="Overleaf" height="36" width="140" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
+    &nbsp;
   </p>
 </div>
 
