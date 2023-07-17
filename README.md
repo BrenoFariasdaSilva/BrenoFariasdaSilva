@@ -73,6 +73,28 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   </p>
 </div>
 
+## Frameworks:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Anaconda" height="36" width="120" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="NPM" height="36" width="120" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="Nodemon" height="36" width="120" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"></a>
+    &nbsp;
+    <a href="#"><img alt="OpenGL" height="36" width="120" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"></a>
+    &nbsp;
+    <a href="#"><img alt="RabbitMQ" height="36" width="120" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
+    &nbsp;
+    <a href="#"><img alt="React" height="36" width="120" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+    &nbsp;
+    <a href="#"><img alt="Socket.IO" height="36" width="120" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
+    &nbsp;
+    <a href="#"><img alt="" height="36" width="120" src=""></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Container and Virtualization:
 <div>
   <p align="center">
