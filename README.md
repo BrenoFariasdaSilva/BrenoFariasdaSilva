@@ -184,7 +184,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Linux Mint" height="36" width="140" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Manjaro" height="36" width="120" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
+    <a href="#"><img alt="Manjaro" height="36" width="130" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="MacOS" height="36" width="120" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
     &nbsp;
@@ -192,7 +192,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Ubuntu" height="36" width="120" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Windows" height="36" width="120" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Windows" height="36" width="130" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
