@@ -48,7 +48,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="Elixir" height="36" width="90" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="java" height="36" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="java" height="36" width="100" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="javascript" height="36" width="150" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     &nbsp;
