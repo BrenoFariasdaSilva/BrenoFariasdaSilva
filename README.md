@@ -46,11 +46,11 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="c++" height="36" width="85" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Elixir" height="36" width="85" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"></a>
+    <a href="#"><img alt="Elixir" height="36" width="90" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="java" height="36" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="javascript" height="36" width="135" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="javascript" height="36" width="140" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     &nbsp;
     <a href="#"><img alt="kotlin" height="36" width="100" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     &nbsp;
@@ -80,17 +80,17 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
   <p align="center">
     <a href="#"><img alt="Anaconda" height="36" width="120" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="NPM" height="36" width="120" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="NPM" height="36" width="100" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Nodemon" height="36" width="120" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"></a>
     &nbsp;
-    <a href="#"><img alt="OpenGL" height="36" width="120" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"></a>
+    <a href="#"><img alt="OpenGL" height="36" width="110" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"></a>
     &nbsp;
     <a href="#"><img alt="RabbitMQ" height="36" width="120" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="React" height="36" width="120" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React" height="36" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
     &nbsp;
-    <a href="#"><img alt="Socket.IO" height="36" width="120" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
+    <a href="#"><img alt="Socket.IO" height="36" width="130" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
     &nbsp;
   </p>
 </div>
@@ -158,15 +158,15 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 ## IDEs/Text Editors:
 <div>
   <p align="center">
-    <a href="#"><img alt="Android Studio" height="36" width="140" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" height="36" width="160" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Eclipse" height="36" width="120" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="IntelliJ IDEA" height="36" width="150" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" height="36" width="160" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Jupyter Notebook" height="36" width="120" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="Visual Studio Code" height="36" width="200" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" height="36" width="220" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Visual Studio" height="36" width="180" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
     &nbsp;
