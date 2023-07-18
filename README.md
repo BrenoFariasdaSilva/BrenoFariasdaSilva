@@ -58,7 +58,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     &nbsp;
     <a href="#"><img alt="ruby" height="36" width="90" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
     &nbsp;
-    <a href="#"><img alt="typescript" height="36" width="130" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="typescript" height="36" width="140" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
     &nbsp;
   </p>
 </div>
