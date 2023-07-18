@@ -14,14 +14,21 @@
 </p>
 <div align="center">
 
+---
+
 ## I'm a student of Computer Science at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
+
+---
+
 Currently i'm learning JavaScript and Ruby languages by my own, i'm already used to C/C++, Python and Java.  
 My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.  
 🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
 🌱 I'm currently learning basically everything that shows up.  
 👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
 🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in English.  
-  
+
+---
+
 ## Social Networks:
 <div>
 <p align="center">
