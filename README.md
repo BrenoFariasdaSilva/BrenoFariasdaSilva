@@ -207,3 +207,9 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
  </div>
 
 <!--  ![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake.gif) -->
+
+<div align="center">
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/718c16f4807191323ef1ca555a136cf410c6f85d.svg "Repobeats analytics image")
+
+</div>
