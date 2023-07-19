@@ -31,7 +31,7 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 ## Social Networks:
 <div>
-<p align="center">
+  <p align="center">
     <a href="https://brenofarias2.wixsite.com/aboutme"><img align="center" alt="AboutMe.com" width="140px" height="30px" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
     &nbsp;
     <a href="https://www.instagram.com/brenofdsilva/"><img align="center" alt="BrenoFarias | Instagram" width="120px" height="30px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -43,8 +43,8 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
     <a href="https://twitter.com/BrenoFariasUser"><img align="center" alt="BrenoFarias | Twitter" width="100px" height="30px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
     &nbsp;
     <a href="https://www.youtube.com/@brenovicio1/featured"><img align="center" alt="BrenoFarias | YouTube" width="100px" height="30px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-</p>
-<div align="center">
+  </p>
+</div>
   
 ## Languages:
 <div>
