@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Hi there, I'm Breno Farias da Silva - aka Breno Farias.](https://brenofarias2.wixsite.com/aboutme) 👋
+# [Hi there, I'm Breno Farias da Silva.](https://brenofarias2.wixsite.com/aboutme) 👋
 
 </div>
 
