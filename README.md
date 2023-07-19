@@ -32,17 +32,18 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 ## Social Networks:
 <div>
   <p align="center">
-    <a href="https://brenofarias2.wixsite.com/aboutme"><img align="center" alt="AboutMe.com" width="140px" height="30px" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+    <a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="140" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
     &nbsp;
-    <a href="https://www.instagram.com/brenofdsilva/"><img align="center" alt="BrenoFarias | Instagram" width="120px" height="30px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/brenofdsilva/"><img alt="c" height="30" width="130" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    &nbsp;    
+<a href="https://www.linkedin.com/in/breno-farias-da-silva-79641698"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    &nbsp;    
+<a href="https://www.twitch.tv/brenovicio1"><img alt="c" height="30" width="100" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+    &nbsp;    
+<a href="https://twitter.com/BrenoFariasUser"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    &nbsp;    
+<a href="https://www.youtube.com/@brenovicio1/featured"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/breno-farias-da-silva-79641698"><img align="center" alt="BrenoFarias | LinkedIn" width="120px" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;
-  <a href="https://www.twitch.tv/brenovicio1"><img align="center" alt="BrenoVicio | Twitch" width="100px" height="30px" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-    &nbsp;
-    <a href="https://twitter.com/BrenoFariasUser"><img align="center" alt="BrenoFarias | Twitter" width="100px" height="30px" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    &nbsp;
-    <a href="https://www.youtube.com/@brenovicio1/featured"><img align="center" alt="BrenoFarias | YouTube" width="100px" height="30px" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   </p>
 </div>
   
