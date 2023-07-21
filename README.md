@@ -6,7 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" />
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />
+  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BrenoFariasdaSilva" alt="last-commit" />
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />	
 </p>
 
 <p align="center">
