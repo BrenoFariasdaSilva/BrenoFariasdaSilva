@@ -4,15 +4,18 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat" alt="Breno Farias" />
-  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BrenoFariasdaSilva" alt="last-commit" />
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg" alt="wakatime" />	
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BrenoFariasdaSilva)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)
+
+</div>
 
 <p align="center">
   <a href="https://brenofarias2.wixsite.com/aboutme"><img src="https://img.shields.io/website?label=BrenoFarias.AboutMe&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com" alt="Website"></a>
 </p>
+
 <div align="center">
 
 ---
