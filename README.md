@@ -213,13 +213,13 @@ My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.
 
 <div>
   <p align="center">
-    <a href="#"><img alt="Brazilian Portuguese" height="36" width="120" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg"></a>
+    <a href="#"><img alt="Brazilian Portuguese" height="36" width="60" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg"></a>
     &nbsp;
-	 <a href="#"><img alt="European Portuguese" height="36" width="120" src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg"></a>
+	 <a href="#"><img alt="European Portuguese" height="36" width="70" src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg"></a>
     &nbsp;
-	 <a href="#"><img alt="American English" height="36" width="120" src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg"></a>
+	 <a href="#"><img alt="American English" height="36" width="70" src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg"></a>
     &nbsp;
-	 <a href="#"><img alt="Spanish" height="36" width="120" src="https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg"></a>
+	 <a href="#"><img alt="Spanish" height="36" width="70" src="https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg"></a>
     &nbsp;
   </p>
 </div>
