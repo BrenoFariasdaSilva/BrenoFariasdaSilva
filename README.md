@@ -24,12 +24,12 @@
 
 ---
 
-Currently i'm learning JavaScript and Ruby languages by my own, i'm already used to C/C++, Python and Java.  
-My Hobbies are related to Coding, Games, Music, Math and Problem-Solving.  
+Currently, I'm learning JavaScript and Ruby languages on my own, and I'm already familiar with C/C++, Python, and Java.  
+My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.  
 🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
-🌱 I'm currently learning basically everything that shows up.  
-👯 I’m a intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
-🥅 2023 Goals: Learn at least 2 languages, like Java and JavaScript, and get used to learn with books in English.  
+🌱 I'm currently learning a wide range of subjects.  
+👯 I'm an intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
+🥅 2023 Goals: Learn at least 2 languages, such as Java and JavaScript, and get used to learning with books in English.  
 
 ---
 
