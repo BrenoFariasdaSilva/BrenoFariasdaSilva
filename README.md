@@ -38,6 +38,8 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
   <p align="center">
     <a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="140" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
     &nbsp;
+    <a href="mailto:breno.vicio78@gmail.com"><img alt="c" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp; 
     <a href="https://www.instagram.com/brenofdsilva/"><img alt="c" height="30" width="130" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     &nbsp;    
 <a href="https://www.linkedin.com/in/breno-farias-da-silva-79641698"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
