@@ -153,7 +153,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 ## Markup Languages:
 <div>
   <p align="center">
-    <a href="#"><img alt="LaTex" height="36" width="90" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+    <a href="#"><img alt="LaTex" height="36" width="100" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
     &nbsp;
     <a href="#"><img alt="Markdown" height="36" width="140" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
     &nbsp;
