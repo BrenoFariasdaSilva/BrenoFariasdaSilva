@@ -30,7 +30,6 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 🌱 I'm currently learning a wide range of subjects.  
 👯 I'm an intern full-stack developer at [Dataway Tecnologia da Informação](https://www.linkedin.com/company/datawayti/mycompany/).  
 🥅 2023 Goals: Learn at least 2 languages, such as Java and JavaScript, and get used to learning with books in English.
-
 📄 Here's my [Curriculum](https://drive.google.com/file/d/19G2Lf7a3U7FXv8l3ncp6BGfIhKE_c_eK/view?usp=sharing) for more details about my experience and projects.  
 
 ---
