@@ -124,6 +124,14 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
   </p>
 </div>
 
+## Pipelining / Data Orchestration:
+<div>
+  <p align="center">
+    <a href="#"><img alt="Dagster" height="36" width="120" src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/Dagster.svg"></a>
+    &nbsp;
+  </p>
+</div>
+
 ## Version Control:
 <div>
   <p align="center">
