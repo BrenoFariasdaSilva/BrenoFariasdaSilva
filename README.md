@@ -1,5 +1,5 @@
 <div align="center">
-
+	
 # [Hi there, I'm Breno Farias da Silva.](https://brenofarias2.wixsite.com/aboutme) 👋
 
 </div>
@@ -18,11 +18,9 @@
 
 <div align="center">
 
----
-
 ## I'm a Computer Science student at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
 
----
+<img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
 Currently, I'm learning JavaScript and Ruby languages on my own, and I'm already familiar with C/C++, Python, and Java.  
 My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.  
@@ -32,7 +30,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 🥅 2023 Goals: Learn at least 2 languages, such as Java and JavaScript, and get used to learning with books in English.  
 📄 Here's my [Curriculum](https://drive.google.com/file/d/19G2Lf7a3U7FXv8l3ncp6BGfIhKE_c_eK/view?usp=sharing) for more details about my experience and projects.  
 
----
+<img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
 ## Social Networks:
 <div>
