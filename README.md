@@ -35,8 +35,6 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 ## Social Networks:
 <div>
   <p align="center">
-    <a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="140" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
-    &nbsp;
     <a href="mailto:breno.vicio78@gmail.com"><img alt="c" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     &nbsp; 
     <a href="https://www.instagram.com/brenofdsilva/"><img alt="c" height="30" width="130" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -49,6 +47,8 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
     &nbsp;    
 <a href="https://www.youtube.com/@brenovicio1/featured"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+&nbsp;
+<a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="100" src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/Website.svg"></a>
     &nbsp;
 <a href="https://api.whatsapp.com/send?phone=05563999526402"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
