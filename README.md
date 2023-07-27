@@ -48,7 +48,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 <a href="https://www.youtube.com/@brenovicio1/featured"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
 &nbsp;
-<a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="100" src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/Website.svg"></a>
+<a href="https://brenofarias2.wixsite.com/aboutme"><img alt="c" height="30" width="110" src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/Website.svg"></a>
     &nbsp;
 <a href="https://api.whatsapp.com/send?phone=05563999526402"><img alt="c" height="30" width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
