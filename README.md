@@ -22,7 +22,7 @@
 
 <img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
-Currently, I'm learning JavaScript and Ruby languages on my own, and I'm already familiar with C/C++, Python, and Java.  
+Currently, I'm learning JavaScript and Ruby languages independently, and I'm already used to working with C/C++, Python, and Java.  
 My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.  
 🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
 🌱 I'm currently learning a wide range of subjects.  
