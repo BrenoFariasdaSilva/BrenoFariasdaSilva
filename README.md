@@ -26,7 +26,7 @@ Currently, I'm learning JavaScript and Ruby languages independently, and I'm alr
 My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.  
 🔭 I just launched my first website: [AboutMe](https://brenofarias2.wixsite.com/aboutme)!  
 🌱 I'm currently learning a wide range of subjects.  
-👯 I'm currently seeking for a job opportunity!
+👯 I'm currently seeking for a job opportunity!  
 🥅 2023 Goals: Learn at least 2 languages, such as Java and JavaScript, and get used to learning with books in English.  
 📄 Here's my [Curriculum](https://drive.google.com/drive/folders/1up5xW9XAJQXivSC9kjITatlVxCPpW1V1?usp=sharing) for more details about my experience and projects.  
 
