@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## I'm a Computer Science student at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
+## I'm a Computer Science student in the eighth semester at the [Federal University of Technology – Paraná](https://pt.wikipedia.org/wiki/Universidade_Tecnol%C3%B3gica_Federal_do_Paran%C3%A1).
 
 <img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
 
