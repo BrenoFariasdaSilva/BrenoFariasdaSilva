@@ -247,7 +247,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
  </div>
 
 ## GitHub Activity Graph:
-![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
