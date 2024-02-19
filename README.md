@@ -246,7 +246,8 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofariasdasilva&layout=compact&langs_count=100&bg_color=000000&text_color=ffffff&card_width=500&align=center" />
  </div>
 
-<!--  ![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake.gif) -->
+## GitHub Activity Graph:
+![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 
