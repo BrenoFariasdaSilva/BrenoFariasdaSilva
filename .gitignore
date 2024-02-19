@@ -1,0 +1,8 @@
+# Ignore the MacOS DS_Store Files
+.DS_Store
+
+# Ignore the Windows .Desktop Files
+desktop.ini
+
+# Ignore the Windows Thumbs.db Files
+Thumbs.db
