@@ -254,3 +254,17 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/718c16f4807191323ef1ca555a136cf410c6f85d.svg "Repobeats analytics image")
 
 </div>
+
+### GitHub Profile Trophy:
+
+<p align="center">
+  <a
+    href="https://github.com/BrenoFariasdaSilva/github-profile-trophy"
+    title="User Profile Trophies"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=BrenoFariasdaSilva&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
