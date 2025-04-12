@@ -30,7 +30,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 🥅 2023 Goals: Learn at least 2 languages, such as Java and JavaScript, and get used to learning with books in English.  
 
 📄 You can check out my curricula below for more information about my background and projects:  
-- [**Vitae Curriculum**](https://drive.google.com/drive/folders/1up5xW9XAJQXivSC9kjITatlVxCPpW1V1?usp=sharing): a general résumé tailored for professional and industry-related opportunities.  
+- [**Vitae Curriculum**](https://www.canva.com/design/DAFaeWCQB_8/tpxgKQ8T7i6TM-auROoP6A/edit?utm_content=DAFaeWCQB_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton): a general résumé tailored for professional and industry-related opportunities.  
 - [**Lattes Curriculum**](http://lattes.cnpq.br/9056898656400990): an academic profile used in Brazil for research, scientific production, and university-related experiences.
 
 <img src="https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/assets/.assets/NeonLine.gif" width="100%">
