@@ -259,6 +259,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:waka-->
+loading...
 <!--END_SECTION:waka-->
 
 ### GitHub Profile Trophy:
