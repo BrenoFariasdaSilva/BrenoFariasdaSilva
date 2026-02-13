@@ -58,6 +58,15 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
     &nbsp;
   </p>
 </div>
+
+## Spotify Activity:
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11126381941&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11126381941&count=5">
+</p>
   
 ## Languages:
 <div>
@@ -250,6 +259,9 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
  </div>
 
 ## GitHub Activity Graph:
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoFariasdaSilva&theme=tokyo-night&custom_title=BrenoFariasdaSilva%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![snake gif](https://github.com/BrenoFariasdaSilva/BrenoFariasdaSilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
@@ -257,6 +269,11 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 ![Repobeats Statistics](https://repobeats.axiom.co/api/embed/718c16f4807191323ef1ca555a136cf410c6f85d.svg "Repobeats analytics image")
 
 </div>
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 
