@@ -273,7 +273,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v25 – Commit Automation Scripts](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v25-CommitAutomationScripts) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v26 – Genetic Algorithm Parallel Refactor](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v26-GeneticAlgorithmParallelRefactor) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
