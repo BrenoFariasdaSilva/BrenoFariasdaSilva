@@ -270,7 +270,12 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 
 </div>
 
-**:zap: Recent Activity:**
+## My LeetCode Stats:
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BrenoFariasDaSilva?theme=catppuccinMocha&font=Lexend%20Giga&ext=heatmap)
+
+</div>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [DDoS-Detector v26 – Genetic Algorithm Parallel Refactor](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v26-GeneticAlgorithmParallelRefactor) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
