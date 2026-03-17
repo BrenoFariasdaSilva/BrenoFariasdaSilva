@@ -284,16 +284,17 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 July 2021 - To: 15 March 2026
+From: 09 July 2021 - To: 17 March 2026
 
-Total Time: 6,002 hrs 35 mins
+Total Time: 2,667 hrs 9 mins
 
-Python                             3,000 hrs 29 mins     ████████████░░░░░░░░░░░░░   47.98 %
-C                                  573 hrs 1 min         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Bash                               384 hrs 10 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Markdown                           288 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Text                               270 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Other                              251 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python                             1,674 hrs 3 mins      ███████████████▒░░░░░░░░░   61.13 %
+C                                  188 hrs 10 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Markdown                           143 hrs 25 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Java                               142 hrs 34 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Bash                               85 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+TypeScript                         72 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Other                              71 hrs 18 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
