@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS Detector v12 – Advanced Metrics and Experimental Pipeline Enhancements](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v12-AdvancedMetrics) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v29 – WGAN-GP Modularization](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v29-WGANGPModularization) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
