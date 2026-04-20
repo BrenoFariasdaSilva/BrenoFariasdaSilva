@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v36 – TSNE Integration](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v36-TSNEIntegration) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v37 – Stacking Pipeline Full Modularization](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v37-StackingPipelineFullModularization) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
