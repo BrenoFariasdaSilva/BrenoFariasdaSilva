@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v37 – Stacking Pipeline Full Modularization](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v37-StackingPipelineFullModularization) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [Steam Achievement Manager – Unlock All (Multi-Loop Automation Release) - v8.0.0](https://github.com/BrenoFariasdaSilva/Steam-Achievement-Manager-Unlock-All/releases/tag/8.0.0) in [BrenoFariasdaSilva/Steam-Achievement-Manager-Unlock-All](https://github.com/BrenoFariasdaSilva/Steam-Achievement-Manager-Unlock-All)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
