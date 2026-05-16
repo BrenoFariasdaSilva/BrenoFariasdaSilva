@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v43 – GAConvergenceAndParetoAnalytics](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v43-GAConvergenceAndParetoAnalytics) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v44 – GAMultiRunComparisonSuite](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v44-GAMultiRunComparisonSuite) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
