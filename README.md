@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v45 – ExplainabilityFoundation](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v45-ExplainabilityFoundation) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v46 – ExplainabilityIntegration](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v46-ExplainabilityIntegration) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
