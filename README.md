@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v49 – UniversalCSVImageExportAcrossModules](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v49-UniversalCSVImageExportAcrossModules) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [v50-StackingFSHPDAOrchestration](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v50-StackingFSHPDAOrchestration) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
