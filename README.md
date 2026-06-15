@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v52 – FullConfigSchemaAcrossAllModules](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v52-FullConfigSchemaAcrossAllModules) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v53 – StackingDeterministicResultsAndPlots](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v53-StackingDeterministicResultsAndPlots) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
