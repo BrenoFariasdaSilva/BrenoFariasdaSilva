@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v59 - WGANGPConfigurationAndProcessingOrder](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v59-refactor-WGANGPConfigurationAndProcessingOrder) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🗣 Commented on [#24](https://github.com/k4yt3x/video2x-qt6/pull/24#issuecomment-5070826538) in [k4yt3x/video2x-qt6](https://github.com/k4yt3x/video2x-qt6)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
