@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/k4yt3x/video2x-qt6/pull/24#issuecomment-5070826538) in [k4yt3x/video2x-qt6](https://github.com/k4yt3x/video2x-qt6)
+1. 💪 Opened PR [#25](https://github.com/k4yt3x/video2x-qt6/pull/25) in [k4yt3x/video2x-qt6](https://github.com/k4yt3x/video2x-qt6)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
