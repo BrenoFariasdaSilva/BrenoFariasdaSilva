@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Steam Achievement Abuser Enhanced v1.1.0](https://github.com/BrenoFariasdaSilva/Steam-Achievement-Abuser-Enhanced/releases/tag/v1.1.0-enhanced) in [BrenoFariasdaSilva/Steam-Achievement-Abuser-Enhanced](https://github.com/BrenoFariasdaSilva/Steam-Achievement-Abuser-Enhanced)
+1. 🚀 Published release [DDoS-Detector v63 - WGANGPCheckpointingAndDatasetProcessing](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v63-feat-WGANGPCheckpointingAndDatasetProcessing) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
