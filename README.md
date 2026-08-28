@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v63 - WGANGPCheckpointingAndDatasetProcessing](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v63-feat-WGANGPCheckpointingAndDatasetProcessing) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v64 - WGANGPValidationAndFunctionDecomposition](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v64-fix-WGANGPValidationAndFunctionDecomposition) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
