@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v69 - HyperparameterConfigAndDescriptorStability](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v69-fix-HyperparameterConfigAndDescriptorStability) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v70 - DatasetMetricsAndConverterMessaging](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v70-fix-DatasetMetricsAndConverterMessaging) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
