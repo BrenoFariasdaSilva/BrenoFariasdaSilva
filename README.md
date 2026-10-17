@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=BrenoFariasdaSilva&color=0e75b6)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/BrenoFariasdaSilva)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/BrenoFariasdaSilva.svg)
 
