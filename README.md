@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v72 - GeneticAlgorithmAndStackingEvaluationLogging](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v72-feat-GeneticAlgorithmAndStackingEvaluationLogging) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v73 - StackingMetricsAndDescriptorReporting](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v73-feat-StackingMetricsAndDescriptorReporting) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
