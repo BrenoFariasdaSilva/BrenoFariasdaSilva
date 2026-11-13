@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v74 - CrossModulePathValidation](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v74-feat-CrossModulePathValidation) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v75 - SharedTrailingSpacePathResolution](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v75-fix-SharedTrailingSpacePathResolution) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
