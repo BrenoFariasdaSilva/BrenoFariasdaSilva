@@ -278,7 +278,7 @@ My hobbies are related to Coding, Games, Music, Math, and Problem-Solving.
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DDoS-Detector v76 - DatasetDescriptorTypingAndStackingCache](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v76-fix-DatasetDescriptorTypingAndStackingCache) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
+1. 🚀 Published release [DDoS-Detector v77 - StackingCacheAndCombinationLogging](https://github.com/BrenoFariasdaSilva/DDoS-Detector/releases/tag/v77-fix-StackingCacheAndCombinationLogging) in [BrenoFariasdaSilva/DDoS-Detector](https://github.com/BrenoFariasdaSilva/DDoS-Detector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
