@@ -28,8 +28,29 @@ My interests include software engineering, machine learning, distributed systems
 
 ## Selected projects
 
-- [**DDoS-Detector**](https://github.com/BrenoFariasdaSilva/DDoS-Detector) — DDoS detection research and development.
-- [**GitHub Contribution Analytics**](https://github.com/BrenoFariasdaSilva/GitHub-Contribution-Analytics) — GitHub contribution analytics and visualization.
+### Research, AI & scientific software
+
+- [**DDoS-Detector**](https://github.com/BrenoFariasdaSilva/DDoS-Detector) — Machine learning framework for DDoS detection, with feature selection, WGAN-GP data augmentation and ensemble classifiers.
+- [**Worked-Example-Miner**](https://github.com/BrenoFariasdaSilva/Worked-Example-Miner) — Research tool for analyzing Java repositories and mining worked examples.
+- [**Recommendation-Systems-AI**](https://github.com/BrenoFariasdaSilva/Recommendation-Systems-AI) — Recommender-system experiments and AI implementations in Jupyter notebooks.
+- [**LaTeX-Reviewer**](https://github.com/BrenoFariasdaSilva/LaTeX-Reviewer) — Automated academic LaTeX proofreading, style checks and deterministic corrections.
+
+### Software engineering & security
+
+- [**E-Commerces-WebScraper**](https://github.com/BrenoFariasdaSilva/E-Commerces-WebScraper) — Python web scraping project for multiple e-commerce platforms, including Amazon, AliExpress and Mercado Livre.
+- [**TextSync**](https://github.com/BrenoFariasdaSilva/TextSync) — Real-time distributed text editor built with React, Node.js, MongoDB and WebSockets.
+- [**Authy-iOS-MiTM**](https://github.com/BrenoFariasdaSilva/Authy-iOS-MiTM) — Authenticator migration utility (fork of [AlexTech01/Authy-iOS-MiTM](https://github.com/AlexTech01/Authy-iOS-MiTM)).
+- [**Multi-AI-API-Response-Collector**](https://github.com/BrenoFariasdaSilva/Multi-AI-API-Response-Collector) — Python tool for collecting and comparing responses from multiple AI APIs.
+
+### Developer tools & data engineering
+
+- [**GitHub Contribution Analytics**](https://github.com/BrenoFariasdaSilva/GitHub-Contribution-Analytics) — Local-first Streamlit dashboard for Git contributions, code churn, source lines of code and repository history.
+- [**GitHub-Activity-Reports-Generator**](https://github.com/BrenoFariasdaSilva/GitHub-Activity-Reports-Generator) — Multi-repository GitHub activity reports with per-author Quarto, PDF and DOCX exports.
+- [**GitHub-Forks-Tracker**](https://github.com/BrenoFariasdaSilva/GitHub-Forks-Tracker) — CLI for analyzing GitHub forks and divergent commits, with CSV exports.
+- [**Datasets-Features-Compatibility**](https://github.com/BrenoFariasdaSilva/Datasets-Features-Compatibility) — Toolkit for inspecting and comparing tabular datasets and their feature compatibility.
+- [**Multi-Format-Dataset-Converter**](https://github.com/BrenoFariasdaSilva/Multi-Format-Dataset-Converter) — Recursive dataset cleaning and conversion across ARFF, CSV, Parquet and TXT.
+
+[View all public repositories](https://github.com/BrenoFariasdaSilva?tab=repositories&sort=stargazers)
 
 ## Technical stack
 
