@@ -227,13 +227,13 @@ My interests include software engineering, machine learning, distributed systems
 
 <div>
   <p align="center">
+	  <img alt="American English" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg">
     <img alt="Brazilian Portuguese" height="36" width="60" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/br.svg">
     &nbsp;
-	 <img alt="European Portuguese" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/pt.svg">
+	  <img alt="European Portuguese" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/pt.svg">
     &nbsp;
-	 <img alt="American English" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg">
     &nbsp;
-	 <img alt="Spanish" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg">
+	  <img alt="Spanish" height="36" width="70" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg">
     &nbsp;
   </p>
 </div>
