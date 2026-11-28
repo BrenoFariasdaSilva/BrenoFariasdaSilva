@@ -111,6 +111,15 @@ class ProfileTests(unittest.TestCase):
         self.assertEqual(current.find('.//' + profile.SVG_NS + 'linearGradient').attrib['id'], 'shade')
         self.assertIn('4,318 hrs 42 mins', ''.join(current.itertext()))
 
+    def test_waka_classic_blue(self):
+        for total in ('412 hrs 2 mins', '4,318 hrs 42 mins', '100,000 hrs 59 mins'):
+            with self.subTest(total=total):
+                svg = profile.valid_svg(profile.waka_badge_svg(total).encode())
+                segment = svg.find(f'.//{profile.SVG_NS}rect[@x="81"]')
+                self.assertEqual(segment.attrib['fill'], '#007ec6')
+                self.assertEqual(svg.find(f'.//{profile.SVG_NS}rect[@fill="#555"]').attrib['width'], '81')
+                self.assertEqual(svg.find(f'.//{profile.SVG_NS}rect[@fill="url(#shade)"]').attrib['height'], '20')
+
     def test_waka_badge_escapes_text(self):
         value = '12 hrs & <1 min'
         root = profile.valid_svg(profile.waka_badge_svg(value).encode())

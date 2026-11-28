@@ -200,7 +200,7 @@ def waka_badge_svg(total):
   </defs>
   <g clip-path="url(#round)">
     <rect width="{label_width}" height="20" fill="#555"/>
-    <rect x="{label_width}" width="{value_width}" height="20" fill="#3778b8"/>
+    <rect x="{label_width}" width="{value_width}" height="20" fill="#007ec6"/>
     <rect width="{width}" height="20" fill="url(#shade)"/>
   </g>
   <path d="{WAKA_LOGO_PATH}" fill="#fff" transform="translate(5 3) scale(0.5833333333)"/>
