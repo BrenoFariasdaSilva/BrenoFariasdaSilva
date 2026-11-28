@@ -57,7 +57,7 @@ My interests include software engineering, machine learning, distributed systems
 
 ## Spotify Activity:
 <p align="center">
-  <img alt="Spotify recently played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=11126381941&count=5">
+  <img alt="Spotify recently played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=11126381941&unique=1&duration=1&album=1">
 </p>
 
 ## Languages:
