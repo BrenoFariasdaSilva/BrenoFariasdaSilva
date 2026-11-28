@@ -12,3 +12,7 @@ desktop.ini
 # Ignore the Windows Thumbs.db Files
 Thumbs.db
 */Thumbs.db
+
+# Python caches
+__pycache__/
+*.py[cod]

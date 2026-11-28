@@ -6,16 +6,26 @@ on:
     # runs at 12 AM São Paulo time (UTC-3)
     - cron: "0 3 * * *"
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-writers
+  cancel-in-progress: false
+
 jobs:
   update-readme:
+    if: github.ref == 'refs/heads/main'
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       # REQUIRED: checkout repository so README.md exists
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
 
       # this action name
-      - uses: BrenoFariasdaSilva/waka-readme@master # do NOT replace with anything else
+      - uses: BrenoFariasdaSilva/waka-readme@05f66b34db0c59916ae4456e06fb1da596c1d5e5 # owner’s fork
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -27,12 +37,13 @@ jobs:
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          CODE_LANG: python
+          CODE_LANG: text
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          LANG_COUNT: 15
           SHOW_TIME: true
           SHOW_TOTAL: true
-          STOP_AT_OTHER: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
           IGNORED_LANGUAGES: YAML JSON TOML
 
           ### commit
@@ -43,3 +54,15 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Breno Farias da Silva
           AUTHOR_EMAIL: breno.vicio78@gmail.com
+
+      - name: Refresh account-wide coding badge
+        run: |
+          git pull --ff-only origin main
+          python3 scripts/profile.py waka
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add badges/wakatime.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore(profile): refresh WakaTime badge'
+            git push origin HEAD:main
+          fi
