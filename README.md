@@ -211,12 +211,12 @@ Other                              89 hrs 59 mins        ▓░░░░░░�
 
 ## Spoken languages
 
-<p align="left">
-  <img height="24" alt="American English" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg">&nbsp;American&nbsp;English
-  &nbsp;&nbsp; <img height="24" alt="Brazilian Portuguese" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/br.svg">&nbsp;Brazilian&nbsp;Portuguese
-  &nbsp;&nbsp; <img height="24" alt="European Portuguese" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/pt.svg">&nbsp;European&nbsp;Portuguese
-  &nbsp;&nbsp; <img height="24" alt="Spanish" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg">&nbsp;Spanish
-</p>
+| Flag | Language |
+| :---: | :--- |
+| <img height="24" alt="American English" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg"> | **American English** |
+| <img height="24" alt="Brazilian Portuguese" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/br.svg"> | **Brazilian Portuguese** |
+| <img height="24" alt="European Portuguese" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/pt.svg"> | **European Portuguese** |
+| <img height="24" alt="Spanish" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg"> | **Spanish** |
 
 ## Social networks
 
