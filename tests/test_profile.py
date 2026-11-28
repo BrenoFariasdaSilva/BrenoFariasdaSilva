@@ -97,6 +97,43 @@ class ProfileTests(unittest.TestCase):
             self.assertIn('profile/analytics.svg', updated)
             self.assertEqual(set(p.name for p in dest.iterdir()), set(profile.MAPPINGS))
 
+    def test_waka_classic_badge_dimensions(self):
+        example = profile.valid_svg(profile.waka_badge_svg('412 hrs 2 mins').encode())
+        current = profile.valid_svg(profile.waka_badge_svg('4,318 hrs 42 mins').encode())
+        longer = profile.valid_svg(profile.waka_badge_svg('100,000 hrs 59 mins').encode())
+        self.assertEqual(example.attrib['height'], '20')
+        self.assertLessEqual(abs(int(example.attrib['width']) - 173), 1)
+        self.assertLess(int(example.attrib['width']), int(current.attrib['width']))
+        self.assertLess(int(current.attrib['width']), 200)
+        self.assertLess(int(current.attrib['width']), int(longer.attrib['width']))
+        self.assertEqual(current.attrib['aria-label'], 'wakatime: 4,318 hrs 42 mins')
+        self.assertIsNotNone(current.find(profile.SVG_NS + 'path'))
+        self.assertEqual(current.find('.//' + profile.SVG_NS + 'linearGradient').attrib['id'], 'shade')
+        self.assertIn('4,318 hrs 42 mins', ''.join(current.itertext()))
+
+    def test_waka_badge_escapes_text(self):
+        value = '12 hrs & <1 min'
+        root = profile.valid_svg(profile.waka_badge_svg(value).encode())
+        self.assertEqual(root.attrib['aria-label'], 'wakatime: ' + value)
+        with self.assertRaises(ValueError):
+            profile.waka_badge_svg(' ')
+
+    def test_waka_refresh_preserves_latest_total(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            (root / 'badges').mkdir()
+            target = root / 'badges' / 'wakatime.svg'
+            with patch.object(profile, 'ROOT', root):
+                profile.refresh_waka_badge('Total Time: 999 hrs\n<!--START_SECTION:waka-->\nTotal Time: 4,318 hrs 42 mins\n<!--END_SECTION:waka-->')
+                self.assertEqual(target.read_text(), profile.waka_badge_svg('4,318 hrs 42 mins'))
+                original = target.read_bytes()
+                profile.refresh_waka_badge('<!--START_SECTION:waka-->\nNo activity tracked\n<!--END_SECTION:waka-->')
+                self.assertEqual(target.read_bytes(), original)
+                profile.refresh_waka_badge('<!--START_SECTION:waka-->\nTotal Time:   \n<!--END_SECTION:waka-->')
+                self.assertEqual(target.read_bytes(), original)
+                profile.refresh_waka_badge('<!--START_SECTION:waka-->\nTotal Time: 4,320 hrs 1 min\n<!--END_SECTION:waka-->')
+                self.assertEqual(target.read_text(), profile.waka_badge_svg('4,320 hrs 1 min'))
+
     def test_image_references(self):
         text = '<picture><source media="dark" srcset="dark.svg"><img src="light.svg"></picture>\n[![Card](card.svg)](https://example.com)'
         self.assertEqual(profile.image_urls(text), ['card.svg','dark.svg','light.svg'])

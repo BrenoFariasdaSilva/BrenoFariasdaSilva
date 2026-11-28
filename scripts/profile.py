@@ -166,13 +166,65 @@ def graph():
         (CARD_DIR / name).write_text(svg)
 
 
+# Classic flat badge dimensions (20 px high), with a white WakaTime icon.
+# Widths are conservative 11 px sans-serif glyph advances, in tenths of a pixel.
+# Keeping these local makes SVG generation deterministic without font dependencies.
+WAKA_LOGO_PATH = ('M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 2.824a9.176 9.176 0 1 1 0 18.352 9.176 9.176 0 0 1 0-18.352zm5.097 5.058c-.327 0-.61.19-.764.45-1.025 1.463-2.21 3.162-3.288 4.706l-.387-.636a.897.897 0 0 0-.759-.439.901.901 0 0 0-.788.492l-.357.581-1.992-2.943a.897.897 0 0 0-.761-.446c-.514 0-.903.452-.903.96a1 1 0 0 0 .207.61l2.719 3.96c.152.272.44.47.776.47a.91.91 0 0 0 .787-.483c.046-.071.23-.368.314-.504l.324.52c-.035-.047.076.113.087.13.024.031.054.059.078.085.019.019.04.036.058.052.036.033.08.056.115.08.025.016.052.028.076.04.029.015.06.024.088.035.058.025.122.027.18.04.031.004.064.003.092.005.29 0 .546-.149.707-.36 1.4-2 2.842-4.055 4.099-5.849A.995.995 0 0 0 18 8.842c0-.508-.389-.96-.903-.96')
+WAKA_GLYPH_WIDTHS = {' ': 35, ',': 35, '.': 35, ':': 37,
+                     'h': 70, 'r': 46, 's': 58, 'm': 108, 'i': 31,
+                     'n': 70, 'd': 70, 'a': 68, 'y': 66, 'e': 68,
+                     'c': 61, 'o': 68, 'w': 90, 'k': 64}
+
+
+def waka_badge_svg(total):
+    """Render a compact classic-style badge for the actual all-time total."""
+    total = total.strip()
+    if not total:
+        raise ValueError('WakaTime total is empty')
+    label_width = 81
+    # Five pixels of padding on each side, plus the actual value width.
+    text_width = (sum(70 if char.isascii() and char.isdigit() else
+                      WAKA_GLYPH_WIDTHS.get(char, 110) for char in total) + 9) // 10
+    value_width = text_width + 10
+    width = label_width + value_width
+    value_x = label_width + value_width / 2
+    value = html.escape(total)
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="20" viewBox="0 0 {width} 20" role="img" aria-label="wakatime: {value}">
+  <title>wakatime: {value}</title>
+  <defs>
+    <linearGradient id="shade" x2="0" y2="100%">
+      <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+      <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="{width}" height="20" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="{label_width}" height="20" fill="#555"/>
+    <rect x="{label_width}" width="{value_width}" height="20" fill="#3778b8"/>
+    <rect width="{width}" height="20" fill="url(#shade)"/>
+  </g>
+  <path d="{WAKA_LOGO_PATH}" fill="#fff" transform="translate(5 3) scale(0.5833333333)"/>
+  <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <g fill="#010101" opacity=".3" aria-hidden="true">
+      <text x="48" y="15">wakatime</text>
+      <text x="{value_x:g}" y="15">{value}</text>
+    </g>
+    <g fill="#fff">
+      <text x="48" y="14">wakatime</text>
+      <text x="{value_x:g}" y="14">{value}</text>
+    </g>
+  </g>
+</svg>
+'''
+
+
 def refresh_waka_badge(text):
     section = re.search(r'<!--START_SECTION:waka-->([\s\S]*?)<!--END_SECTION:waka-->', text)
     total = re.search(r'^Total Time: (.+)$', section[1], re.M) if section else None
-    if not total:
+    if not total or not total[1].strip():
         return
-    value = html.escape(total[1])
-    badge = f'<svg xmlns="http://www.w3.org/2000/svg" width="280" height="20" role="img" aria-label="WakaTime: {value}"><title>WakaTime: {value}</title><rect width="280" height="20" rx="3" fill="#555"/><rect x="76" width="204" height="20" rx="3" fill="#1683a3"/><g fill="white" font-family="Verdana,Arial,sans-serif" font-size="11" text-anchor="middle"><text x="38" y="14">WakaTime</text><text x="178" y="14">{value}</text></g></svg>\n'
+    badge = waka_badge_svg(total[1])
+    valid_svg(badge.encode())
     (ROOT / 'badges' / 'wakatime.svg').write_text(badge)
 
 
