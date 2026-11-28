@@ -57,10 +57,6 @@ My interests include software engineering, machine learning, distributed systems
 
 ## Spotify Activity:
 <p align="center">
-  <img alt="Spotify now playing" src="https://spotify-github-profile.kittinanx.com/api/view?uid=11126381941&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
   <img alt="Spotify recently played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=11126381941&count=5">
 </p>
 
