@@ -249,16 +249,16 @@ My interests include software engineering, machine learning, distributed systems
 
 ## My GitHub Stats:
 <div align="center">
-    <img align="center" alt="Breno Farias's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrenoFariasdaSilva&show_icons=true&hide_border=true&theme=tokyonight&card_width=500" />
+    <img align="center" alt="Breno Farias's GitHub Stats" src="profile/github-stats.svg" />
     <br /><br />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BrenoFariasdaSilva&theme=black-ice&hide_border=true" />
+    <img alt="GitHub Streak" src="profile/streak.svg" />
     <br /><br />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofariasdasilva&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&card_width=500" />
+    <img alt="Top Languages" src="profile/top-languages.svg" />
  </div>
 
 ## GitHub Activity Graph:
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenoFariasdaSilva&theme=tokyo-night&custom_title=BrenoFariasdaSilva%20Activity%20Graph&hide_border=true)](https://github.com/BrenoFariasdaSilva?tab=overview)
+[![activity graph](profile/activity.svg)](https://github.com/BrenoFariasdaSilva?tab=overview)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrenoFariasdaSilva/BrenoFariasdaSilva/output/github-contribution-grid-snake-dark.svg">
@@ -269,7 +269,7 @@ My interests include software engineering, machine learning, distributed systems
 
 [Explore my GitHub Contribution Analytics project](https://github.com/BrenoFariasdaSilva/GitHub-Contribution-Analytics)
 
-<!-- profile-analytics -->
+![Recent contribution summary](profile/analytics.svg)
 
 </div>
 
@@ -319,7 +319,7 @@ Other                              89 hrs 59 mins        ▓░░░░░░�
     <img
       width="800"
       alt="GitHub profile trophies"
-      src="https://github-profile-trophy.vercel.app/?username=BrenoFariasdaSilva&theme=aura"
+      src="profile/trophies.svg"
     />
   </a>
 </p>
